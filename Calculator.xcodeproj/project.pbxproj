@@ -15,6 +15,7 @@
 		2DC0C245264A075D00EF7504 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DC0C243264A075D00EF7504 /* LaunchScreen.storyboard */; };
 		2DC0C250264A075D00EF7504 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC0C24F264A075D00EF7504 /* CalculatorTests.swift */; };
 		2DC0C25B264A075D00EF7504 /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC0C25A264A075D00EF7504 /* CalculatorUITests.swift */; };
+		2DC0C26B264A4A5400EF7504 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DC0C26A264A4A5400EF7504 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2DC0C256264A075D00EF7504 /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DC0C25A264A075D00EF7504 /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		2DC0C25C264A075D00EF7504 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DC0C26A264A4A5400EF7504 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		2DC0C237264A075B00EF7504 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				2DC0C26A264A4A5400EF7504 /* icon.png */,
 				2DC0C238264A075B00EF7504 /* AppDelegate.swift */,
 				2DC0C23A264A075B00EF7504 /* SceneDelegate.swift */,
 				2DC0C23C264A075B00EF7504 /* ViewController.swift */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DC0C26B264A4A5400EF7504 /* icon.png in Resources */,
 				2DC0C245264A075D00EF7504 /* LaunchScreen.storyboard in Resources */,
 				2DC0C242264A075D00EF7504 /* Assets.xcassets in Resources */,
 				2DC0C240264A075B00EF7504 /* Main.storyboard in Resources */,
